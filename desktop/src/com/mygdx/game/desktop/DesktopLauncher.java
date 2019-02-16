@@ -7,6 +7,9 @@ import com.mygdx.game.DuckDuck;
 public class DesktopLauncher {
 	public static void main (String[] arg) {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
+		config.width = DuckDuck.WIDTH;
+		config.height = DuckDuck.HEIGHT;
+		config.title = DuckDuck.TITLE;
 		new LwjglApplication(new DuckDuck(), config);
 	}
 }
