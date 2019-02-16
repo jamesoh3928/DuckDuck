@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/james/Documents/Projects/DuckDuck/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/jack8558/DuckDuck/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/james/Documents/Projects/DuckDuck/android/res/values/styles.xml",
+                    "source": "/home/jack8558/DuckDuck/android/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/james/Documents/Projects/DuckDuck/android/res/values/color.xml",
+                    "source": "/home/jack8558/DuckDuck/android/res/values/color.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -33,7 +33,7 @@
                     }
                 },
                 {
-                    "source": "/home/james/Documents/Projects/DuckDuck/android/res/values/strings.xml",
+                    "source": "/home/jack8558/DuckDuck/android/res/values/strings.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
