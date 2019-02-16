@@ -12,7 +12,7 @@ public class GameStateManager {
         states = new Stack<State>();
     }
 
-    public void puss(State state){
+    public void push(State state){
         states.push(state);
     }
 
